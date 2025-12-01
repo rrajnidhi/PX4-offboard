@@ -13,5 +13,7 @@
 
 ##  Demonstration Video
 
+Click on the thumnail below to watch the SITL video
+
 [![Watch the video](https://img.youtube.com/vi/txMo8NnxLfE/0.jpg)](https://youtu.be/txMo8NnxLfE)
 
