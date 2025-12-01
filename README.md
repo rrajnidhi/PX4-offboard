@@ -11,6 +11,7 @@
 
 ---
 
-## Full Simulation Run (YouTube)
-  
-[Watch the video on YouTube](https://youtu.be/txMo8NnxLfE?si=F-3TCjNzDoP_xUFB)
+##  Demonstration Video
+
+[![Watch the video](https://img.youtube.com/vi/txMo8NnxLfE/0.jpg)](https://youtu.be/txMo8NnxLfE)
+
